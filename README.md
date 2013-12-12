@@ -1,6 +1,6 @@
 ## Sass Variables for Brand Colors
 
-A SASS module containing variables of all the colors found on [Brand Colors](http://brandcolors.net/ "Brand Colors").
+A Sass module containing variables of all the colors found on [Brand Colors](http://brandcolors.net/ "Brand Colors").
 
 ### Usage
 1. Include the module:
